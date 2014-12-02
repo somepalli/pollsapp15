@@ -3,9 +3,7 @@ from django.http import HttpResponseRedirect
 from django.shortcuts import get_object_or_404, render
 from django.utils import timezone
 from django.views import generic
-
 from .models import Choice, Poll
-
 
 class IndexView(generic.ListView):
     template_name = 'polls/index.html'
