@@ -1,0 +1,53 @@
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:34: [E] PYFLAKES:local variable 'hasher' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:98: [E] PYFLAKES:list comprehension redefines 'hasher' from line 93
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:18: [E] PYFLAKES:'UNUSABLE_PASSWORD' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:93: [E] PYFLAKES:list comprehension redefines 'ctype' from line 77
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:163: [E] PYFLAKES:local variable 'query' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:260: [E] PYFLAKES:local variable 'response' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:578: [E] PYFLAKES:local variable 'response' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:20: [E] PYFLAKES:local variable 'r1' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:27: [E] PYFLAKES:local variable 'r1' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:254: [E] PYFLAKES:local variable 'form' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:6: [E] PYFLAKES:'AnonymousUser' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:1: [E] PYFLAKES:'from django.contrib.auth.tests.custom_user import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:2: [E] PYFLAKES:'from django.contrib.auth.tests.auth_backends import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:3: [E] PYFLAKES:'from django.contrib.auth.tests.basic import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:4: [E] PYFLAKES:'from django.contrib.auth.tests.context_processors import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:5: [E] PYFLAKES:'from django.contrib.auth.tests.decorators import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:6: [E] PYFLAKES:'from django.contrib.auth.tests.forms import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:7: [E] PYFLAKES:'from django.contrib.auth.tests.remote_user import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:8: [E] PYFLAKES:'from django.contrib.auth.tests.management import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:9: [E] PYFLAKES:'from django.contrib.auth.tests.models import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:10: [E] PYFLAKES:'from django.contrib.auth.tests.handlers import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:11: [E] PYFLAKES:'from django.contrib.auth.tests.hashers import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:12: [E] PYFLAKES:'from django.contrib.auth.tests.signals import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:13: [E] PYFLAKES:'from django.contrib.auth.tests.tokens import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/__init__.py:14: [E] PYFLAKES:'from django.contrib.auth.tests.views import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/messages/__init__.py:3: [E] PYFLAKES:'from django.contrib.messages.api import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/messages/__init__.py:4: [E] PYFLAKES:'from django.contrib.messages.constants import *' used; unable to detect undefined names
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:232: [E] PYFLAKES:local variable 'show_url' is assigned to but never used
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/__init__.py:1: [E] PYFLAKES:'CookieTest' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/__init__.py:2: [E] PYFLAKES:'FallbackTest' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/__init__.py:3: [E] PYFLAKES:'MiddlewareTest' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/__init__.py:4: [E] PYFLAKES:'SessionTest' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:105: [E] PYFLAKES:import 'storage' from line 13 shadowed by loop variable
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:3: [E] PYFLAKES:'ACTION_CHECKBOX_NAME' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:4: [E] PYFLAKES:'VERTICAL' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:4: [E] PYFLAKES:'HORIZONTAL' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:4: [E] PYFLAKES:'ModelAdmin' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:5: [E] PYFLAKES:'TabularInline' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:5: [E] PYFLAKES:'StackedInline' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:6: [E] PYFLAKES:'AdminSite' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'RelatedFieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'ChoicesFieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'DateFieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'SimpleListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'ListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'BooleanFieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'AllValuesFieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:7: [E] PYFLAKES:'FieldListFilter' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:15: [E] PYFLAKES:'six' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:18: [E] PYFLAKES:'smart_text' imported but unused
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_urls.py:1: [E] PYFLAKES:'reverse' imported but unused
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:59: [E] PYFLAKES:'pygraphviz' imported but unused
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:9: [E] PYFLAKES:'find_first_existing_executable' imported but unused

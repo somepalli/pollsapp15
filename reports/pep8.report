@@ -1,0 +1,1366 @@
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:6:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:19:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:21:80: E501 line too long (140 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:25:80: E501 line too long (112 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:35:80: E501 line too long (130 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:46:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:62:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:67:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:72:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:83:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:126:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/__init__.py:129:80: E501 line too long (129 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:5:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:51:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:83:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:159:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:160:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/admin.py:161:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/backends.py:34:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/backends.py:35:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/backends.py:36:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/backends.py:37:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/backends.py:44:80: E501 line too long (142 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/context_processors.py:4:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/decorators.py:14:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/decorators.py:35:17: E129 visually indented line with same indent as next logical line
+../local/lib/python2.7/site-packages/django/contrib/auth/decorators.py:44:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:22:80: E501 line too long (112 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:31:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:42:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:71:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:72:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:73:23: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:78:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:80:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:81:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:117:23: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:122:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:171:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:173:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/forms.py:220:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:22:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:293:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:451:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/hashers.py:461:1: W391 blank line at end of file
+../local/lib/python2.7/site-packages/django/contrib/auth/middleware.py:16:80: E501 line too long (230 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/middleware.py:62:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/middleware.py:97:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:123:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:299:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:302:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:306:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:381:80: E501 line too long (105 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:378:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:387:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:390:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:429:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:430:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/models.py:450:36: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tokens.py:18:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tokens.py:36:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tokens.py:40:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tokens.py:62:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:2:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:11:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:12:80: E501 line too long (115 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:13:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:14:80: E501 line too long (112 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:15:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:18:80: E501 line too long (111 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/urls.py:9:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:18:80: E501 line too long (111 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:20:80: E501 line too long (112 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:99:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:102:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:109:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:138:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:139:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:147:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:188:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:200:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:230:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:250:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/views.py:269:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:32:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:39:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:42:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:52:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:56:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:61:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:61:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:109:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:110:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:173:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:188:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:190:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/__init__.py:190:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:12:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:26:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:36:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:37:21: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:38:17: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:51:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/changepassword.py:55:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:26:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:29:80: E501 line too long (113 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:31:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:32:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:33:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:34:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:35:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:38:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:30:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:32:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:33:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:34:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:35:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:36:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:38:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:41:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:63:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:69:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:71:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:83:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:101:80: E501 line too long (105 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:106:33: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:113:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:115:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:117:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:124:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:126:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:130:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:140:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/handlers/modwsgi.py:30:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:7:80: E501 line too long (98 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:59:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:65:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:69:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:72:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:76:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:80:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:88:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:89:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:99:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:111:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:187:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:207:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:212:1: E303 too many blank lines (3)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:271:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:272:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:273:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:274:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:287:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:290:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:293:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:294:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:300:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:324:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:331:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:341:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:344:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:357:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:376:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/auth_backends.py:382:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:30:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:112:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:122:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:123:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:124:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:125:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:126:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:138:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:139:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:140:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:141:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:142:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:143:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:151:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:152:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:153:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:154:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:155:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:174:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:175:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:176:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:177:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:178:13: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:181:80: E501 line too long (105 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:204:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:205:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:206:13: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/basic.py:226:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:67:13: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:68:9: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:81:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:93:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:114:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/context_processors.py:134:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/custom_user.py:33:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/custom_user.py:40:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/custom_user.py:105:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/custom_user.py:112:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/decorators.py:30:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/decorators.py:48:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:6:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:7:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:20:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:34:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:45:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:57:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:88:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:103:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:104:20: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:151:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:166:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:179:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:194:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:207:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:228:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:239:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:248:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:271:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:272:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:277:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:278:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:295:80: E501 line too long (110 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:307:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:326:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:334:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:345:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:355:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:360:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:366:9: E265 block comment should start with '# '
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:367:9: E265 block comment should start with '# '
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/forms.py:384:80: E501 line too long (111 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/handlers.py:3:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/handlers.py:45:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:6:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:7:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:42:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:42:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:51:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:81:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:132:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:132:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:139:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:147:13: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:155:9: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/hashers.py:165:13: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:53:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:62:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:70:80: E501 line too long (122 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:71:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:93:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:94:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:95:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:96:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:97:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:110:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:111:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:112:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:113:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:114:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:115:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:125:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:126:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:127:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:128:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:129:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:142:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:143:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:144:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:145:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:146:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:147:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:158:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:165:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:166:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:167:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:168:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:169:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:170:13: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:181:80: E501 line too long (150 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:188:80: E501 line too long (119 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:206:12: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:208:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:209:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:210:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:216:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:219:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:219:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:220:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/management.py:221:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:4:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:21:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:27:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:33:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:49:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/models.py:101:35: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:70:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:75:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:92:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:98:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:108:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/remote_user.py:110:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/signals.py:10:80: E501 line too long (102 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/signals.py:77:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:19:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:30:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:46:13: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:49:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:52:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:55:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:58:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:63:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/tokens.py:66:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:12:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:19:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:21:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:24:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:24:28: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:26:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:28:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:30:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:30:28: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:32:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:34:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:36:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:38:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:40:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:41:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:42:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:44:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:47:10: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:49:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:54:80: E501 line too long (104 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:55:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:57:80: E501 line too long (126 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:58:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:60:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:54:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls.py:70:1: W391 blank line at end of file
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/urls_admin.py:17:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/utils.py:9:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:22:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:52:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:56:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:82:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:89:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:92:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:93:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:98:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:102:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:105:80: E501 line too long (117 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:106:80: E501 line too long (104 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:113:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:115:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:121:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:132:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:136:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:144:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:147:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:154:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:185:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:221:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:230:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:255:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:256:17: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:257:13: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:269:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:278:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:288:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:300:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:306:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:321:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:322:22: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:364:21: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:389:80: E501 line too long (98 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:395:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:462:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:462:53: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:565:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:573:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/auth/tests/views.py:578:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:16:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:21:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:37:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:38:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:58:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:87:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:95:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:96:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:126:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:134:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:146:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:153:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:152:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:153:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:154:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:157:9: E303 too many blank lines (2)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:159:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:222:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:231:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:230:17: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:231:21: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:233:21: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:253:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:263:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:268:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:266:18: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:266:20: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:267:21: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:267:23: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:268:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:268:26: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:288:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:296:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:318:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:320:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:321:80: E501 line too long (117 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:324:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:330:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:335:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:343:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:365:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:370:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:371:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:379:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:400:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:413:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:419:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:427:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:425:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:443:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:444:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:445:40: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:454:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:455:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:460:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:475:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:480:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:485:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:497:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/generic.py:500:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/management.py:9:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/management.py:75:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:6:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:45:26: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:45:28: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:46:22: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:46:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:47:25: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:47:27: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:99:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:126:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:167:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:173:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:18:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:22:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:42:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:50:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:134:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:137:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:141:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:147:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:151:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:154:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:158:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:161:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:178:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:188:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:207:5: E303 too many blank lines (2)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:225:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:263:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:272:17: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:272:19: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:273:22: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:273:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:274:18: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/tests.py:274:20: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/views.py:9:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/views.py:17:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/views.py:21:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/contenttypes/views.py:27:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:8:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:41:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:40:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:41:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:42:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:43:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/middleware.py:44:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/models.py:8:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/models.py:17:23: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:11:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:13:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:28:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:140:5: E129 visually indented line with same indent as next logical line
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:141:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:170:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:177:80: E501 line too long (128 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:194:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:199:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:244:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:247:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:277:80: E501 line too long (106 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:278:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:288:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:363:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:364:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:374:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:383:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:389:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:391:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:403:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:428:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:429:38: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:459:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:464:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:479:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:480:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:515:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:529:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/tests.py:573:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/management/commands/clearsessions.py:7:80: E501 line too long (126 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py:20:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py:27:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py:83:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/base.py:86:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/cached_db.py:43:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:7:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:11:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:32:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:33:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:143:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/file.py:147:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:17:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:18:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:19:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:20:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:76:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sessions/backends/signed_cookies.py:77:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sites/admin.py:9:37: W292 no newline at end of file
+../local/lib/python2.7/site-packages/django/contrib/sites/management.py:12:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sites/management.py:14:64: E203 whitespace before ':'
+../local/lib/python2.7/site-packages/django/contrib/sites/management.py:26:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:5:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:11:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:14:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:16:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:18:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:18:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:17:75: E502 the backslash is redundant between brackets
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:19:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:27:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:31:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:32:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:32:80: E225 missing whitespace around operator
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:35:80: E501 line too long (95 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:35:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:34:75: E502 the backslash is redundant between brackets
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:37:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django/contrib/sites/managers.py:41:80: E501 line too long (126 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/models.py:22:80: E501 line too long (203 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/tests.py:14:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/tests.py:23:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/sites/tests.py:35:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/api.py:23:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/__init__.py:31:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/base.py:37:47: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/base.py:44:35: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:52:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:85:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:88:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:104:36: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:105:13: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/cookie.py:108:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/fallback.py:5:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/session.py:4:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/session.py:27:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/storage/session.py:34:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:34:6: E111 indentation is not a multiple of four
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:41:6: E301 expected 1 blank line, found 0
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:41:6: E111 indentation is not a multiple of four
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:60:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:64:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:59:26: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:59:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:59:26: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:61:25: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:166:58: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:176:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:178:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:204:62: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:216:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:218:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:221:18: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:216:23: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:218:21: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:220:21: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:216:27: E225 missing whitespace around operator
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:241:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:243:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:246:18: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:241:23: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:243:21: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:245:21: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:241:27: E225 missing whitespace around operator
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:279:47: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:356:13: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:361:9: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:369:22: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:6:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:69:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:77:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:77:17: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:80:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:81:80: E501 line too long (98 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:103:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:128:34: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:126:72: E502 the backslash is redundant between brackets
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:127:76: E502 the backslash is redundant between brackets
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/cookie.py:139:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/fallback.py:3:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/fallback.py:6:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/fallback.py:8:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/session.py:13:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/session.py:19:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/session.py:45:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:20:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:35:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:40:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:43:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:48:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:55:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/messages/tests/urls.py:53:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/finders.py:4:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/handlers.py:15:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/handlers.py:73:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/storage.py:75:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/storage.py:138:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/storage.py:214:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/storage.py:250:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/storage.py:271:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/urls.py:6:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/utils.py:6:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/utils.py:18:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/utils.py:40:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/views.py:20:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:23:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:24:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:26:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:27:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:29:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:30:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:31:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:33:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:34:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:36:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:37:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:38:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:40:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:41:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:43:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:44:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:45:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:160:1: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:174:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/collectstatic.py:302:12: E713 test for membership should be 'not in'
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/findstatic.py:10:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:4:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:8:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:10:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:11:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:12:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:11:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:13:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/staticfiles/management/commands/runserver.py:15:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:8:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/__init__.py:9:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/actions.py:13:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/actions.py:48:80: E501 line too long (95 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/actions.py:77:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/actions.py:78:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/actions.py:83:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:16:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:19:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:155:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:169:39: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:182:21: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:196:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:209:21: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:219:9: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:230:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:243:25: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:244:21: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:251:25: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:252:21: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:257:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:280:37: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:314:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:337:37: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:377:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/filters.py:379:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:9:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:10:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:18:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:19:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:19:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/forms.py:27:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:5:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:22:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:25:9: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:29:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:30:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:44:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:45:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:46:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:47:13: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:70:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:71:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:72:7: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:92:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:94:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:96:25: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:110:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:115:80: E501 line too long (132 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:117:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:119:33: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:120:33: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:121:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:140:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:174:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:195:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:200:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:213:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:215:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:216:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:219:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:220:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:222:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:223:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:232:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:248:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:253:7: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:258:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:260:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:261:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:266:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:307:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:318:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:320:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:332:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/helpers.py:342:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/models.py:17:80: E501 line too long (107 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/models.py:18:80: E501 line too long (131 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/models.py:45:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/models.py:52:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/models.py:75:80: E501 line too long (110 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:9:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:12:80: E501 line too long (104 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:39:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:104:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:109:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:113:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:115:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:123:61: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:125:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:127:29: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:136:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:167:37: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:188:37: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:190:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:191:80: E501 line too long (125 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:207:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:276:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:303:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:306:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:318:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:332:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:346:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:348:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:412:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:448:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:448:65: E203 whitespace before ','
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:468:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:485:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:496:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:527:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:538:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:542:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:543:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:549:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:550:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:560:20: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:560:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:561:28: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:561:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:562:22: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:562:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:563:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:563:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:564:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:564:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:560:20: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:562:22: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:563:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:564:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:575:20: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:575:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:576:28: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:576:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:577:22: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:577:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:578:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:578:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:579:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:579:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:580:27: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:580:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:575:20: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:577:22: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:578:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:579:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:580:27: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:592:20: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:592:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:593:28: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:593:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:594:22: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:594:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:595:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:595:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:596:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:596:30: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:592:20: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:594:22: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:595:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:596:24: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:603:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:604:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:622:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:632:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:651:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:718:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:724:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:725:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:727:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:728:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:729:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:730:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:733:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:734:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:738:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:758:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:761:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:800:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:810:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:815:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:810:36: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:825:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:837:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:841:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:865:126: E502 the backslash is redundant between brackets
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:869:80: E501 line too long (116 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:873:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:885:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:887:80: E501 line too long (111 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:894:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:901:80: E501 line too long (118 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:907:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:984:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1030:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1038:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1058:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1068:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1069:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1079:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1093:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1108:80: E501 line too long (156 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1112:37: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1113:37: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1127:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1141:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1148:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1158:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1159:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1169:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1185:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1206:49: E222 multiple spaces after operator
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1211:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1212:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1213:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1214:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1239:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1255:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1270:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1277:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1278:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1287:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1288:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1310:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1315:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1319:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1320:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1335:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1353:80: E501 line too long (156 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1357:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1362:25: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1369:80: E501 line too long (167 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1373:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1398:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1431:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1436:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1475:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1485:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1492:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1499:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/options.py:1511:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:31:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:32:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:33:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:34:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:80:23: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:83:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:91:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:95:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:113:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:126:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:153:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:163:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:163:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:166:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:166:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:167:80: E501 line too long (104 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:168:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:168:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:168:13: E125 continuation line with same indent as next logical line
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:169:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:170:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:170:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:224:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:250:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:250:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:296:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:297:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:361:80: E501 line too long (117 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:366:80: E501 line too long (108 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:374:80: E501 line too long (121 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:415:80: E501 line too long (121 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/sites.py:420:80: E501 line too long (112 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/tests.py:6:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/tests.py:92:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/tests.py:96:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/tests.py:103:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:20:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:30:10: E111 indentation is not a multiple of four
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:33:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:48:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:135:33: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:147:24: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:160:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:252:11: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:270:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:271:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:297:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:316:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:332:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:373:32: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:394:48: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:451:26: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:453:32: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/util.py:455:44: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:4:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:5:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:9:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:14:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:37:80: E501 line too long (146 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:38:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:38:33: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:40:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:41:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:43:80: E501 line too long (129 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:44:33: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:52:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:52:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:53:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:60:80: E501 line too long (95 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:61:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:67:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:68:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:72:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:73:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:74:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:81:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:82:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:90:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:91:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:92:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:95:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:97:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:100:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:101:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:102:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:111:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:113:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:112:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:113:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:116:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:117:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:119:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:120:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:121:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:122:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:124:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:125:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:126:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:128:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:129:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:130:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:141:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:142:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:150:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:151:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:152:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:172:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:175:5: E303 too many blank lines (2)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:181:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:184:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:187:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:191:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:194:20: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:198:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:200:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:205:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:210:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:211:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:214:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:216:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:223:80: E501 line too long (108 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:222:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:223:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:228:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:253:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:254:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:256:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:258:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:259:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:262:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:272:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:273:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:276:19: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:280:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:282:80: E501 line too long (98 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:285:22: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:291:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:295:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:296:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:297:80: E501 line too long (109 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:300:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:303:20: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:314:80: E501 line too long (99 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:319:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:328:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:336:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:337:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:346:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:347:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:348:16: E713 test for membership should be 'not in'
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:350:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:351:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:359:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:359:17: E125 continuation line with same indent as next logical line
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:361:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:362:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:363:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:366:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:368:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:370:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:372:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:374:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:376:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:380:80: E501 line too long (101 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:381:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:381:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:383:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:389:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:391:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:398:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:400:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:408:80: E501 line too long (121 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:409:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:409:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:411:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:420:80: E501 line too long (145 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:421:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/validation.py:421:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:13:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:44:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:45:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:48:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:49:80: E501 line too long (100 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:49:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:52:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:65:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:78:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:93:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:101:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:104:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:106:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:110:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:130:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:149:37: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:150:37: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:151:37: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:155:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:159:80: E501 line too long (104 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:159:62: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:162:80: E501 line too long (137 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:163:29: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:165:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:165:29: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:166:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:183:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:184:80: E501 line too long (97 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:188:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:190:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:228:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:245:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:265:80: E501 line too long (93 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:268:80: E501 line too long (121 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:271:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:288:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:295:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:302:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:331:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:334:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/widgets.py:339:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:6:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:8:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:27:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:28:24: E231 missing whitespace after ','
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:39:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:42:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:49:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:72:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:74:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:82:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:88:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:95:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:96:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:97:9: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:95:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:95:26: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:96:24: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:96:26: E251 unexpected spaces around keyword / parameter equals
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:105:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:134:28: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:135:22: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:135:28: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:136:22: E221 multiple spaces before operator
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:136:28: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:140:23: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:163:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:164:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:165:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:157:9: E303 too many blank lines (2)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:167:29: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:170:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:175:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:211:80: E501 line too long (90 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:215:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:216:80: E501 line too long (88 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:217:30: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:217:42: E231 missing whitespace after ':'
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:232:80: E501 line too long (127 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:233:33: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:237:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:242:25: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:247:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:249:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:258:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:266:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:272:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:288:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:316:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:320:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:321:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:323:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:326:80: E501 line too long (119 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:334:80: E501 line too long (107 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:335:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:339:80: E501 line too long (96 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:347:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:348:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:341:23: E203 whitespace before ':'
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:343:27: E203 whitespace before ':'
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:361:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:372:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:377:18: E203 whitespace before ':'
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:381:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:5:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:5:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:18:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:22:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:40:80: E501 line too long (84 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:34:29: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:36:31: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:39:29: E131 continuation line unaligned for hanging indent
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:48:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_modify.py:51:14: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_urls.py:7:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:6:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:15:80: E501 line too long (110 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:20:80: E501 line too long (141 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:23:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:30:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/templatetags/log.py:56:80: E501 line too long (105 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:7:80: E501 line too long (91 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:9:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:25:80: E501 line too long (123 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:29:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:39:80: E501 line too long (103 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/bin/compress.py:44:80: E501 line too long (82 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:19:80: E501 line too long (210 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:18:5: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:39:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:40:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:64:80: E501 line too long (94 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:87:43: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:113:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:117:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:123:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:126:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:127:80: E501 line too long (81 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:128:25: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:147:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:152:30: E701 multiple statements on one line (colon)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:153:26: E701 multiple statements on one line (colon)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:168:80: E501 line too long (95 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:252:33: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:255:29: E261 at least two spaces before inline comment
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:276:80: E501 line too long (80 > 79 characters)
+../local/lib/python2.7/site-packages/django/contrib/admin/views/main.py:300:29: E261 at least two spaces before inline comment
+polls/models.py:29:32: W292 no newline at end of file
+polls/tests.py:17:80: E501 line too long (81 > 79 characters)
+polls/tests.py:33:80: E501 line too long (81 > 79 characters)
+polls/tests.py:61:80: E501 line too long (80 > 79 characters)
+polls/tests.py:77:80: E501 line too long (81 > 79 characters)
+polls/tests.py:113:80: E501 line too long (83 > 79 characters)
+polls/tests.py:122:80: E501 line too long (81 > 79 characters)
+polls/tests.py:123:75: W292 no newline at end of file
+polls/urls.py:9:80: E501 line too long (80 > 79 characters)
+polls/urls.py:7:5: E128 continuation line under-indented for visual indent
+polls/views.py:8:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/functions.py:13:25: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/nose_runner.py:30:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/nose_runner.py:88:80: E501 line too long (89 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:198:57: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:208:37: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:216:41: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:223:41: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:226:37: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:273:21: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:286:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:287:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/runner.py:288:17: E124 closing bracket does not match visual indentation
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:37:40: E111 indentation is not a multiple of four
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:37:40: E113 unexpected indentation
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:42:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:43:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:46:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:49:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:50:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:52:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:54:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:55:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:56:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:57:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:63:33: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:69:57: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/__init__.py:77:49: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/csslint.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/jshint.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/jtest.py:14:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/jtest.py:18:17: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/jtest.py:25:21: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/lettuce.py:2:1: E265 block comment should start with '# '
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/pep8.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/pyflakes.py:11:22: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/pyflakes.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/pylint.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/management/commands/sloccount.py:12:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/__init__.py:46:21: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/__init__.py:47:21: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/__init__.py:48:25: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/__init__.py:57:17: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/__init__.py:58:21: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:23:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:42:80: E501 line too long (92 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:54:51: W291 trailing whitespace
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:60:80: E501 line too long (87 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:74:80: E501 line too long (86 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:78:80: E501 line too long (139 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:85:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:86:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:89:1: E302 expected 2 blank lines, found 1
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:95:41: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/behave_tests.py:103:1: W293 blank line contains whitespace
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/dir_tests.py:33:41: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/django_tests.py:19:41: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/lettuce_tests.py:15:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/lettuce_tests.py:16:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/lettuce_tests.py:17:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/lettuce_tests.py:25:41: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/lettuce_tests.py:50:48: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:16:8: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:19:15: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:26:15: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:42:80: E501 line too long (95 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:110:80: E501 line too long (85 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:110:33: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:114:30: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_csslint.py:115:34: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:16:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:19:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:22:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:25:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:26:22: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:29:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:30:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:33:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:36:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:39:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:40:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:43:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:44:18: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_graphmodels.py:47:13: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_jshint.py:15:12: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_jshint.py:61:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_jshint.py:109:37: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:15:8: E121 continuation line under-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:28:58: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:54:49: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:62:45: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:68:29: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pep8.py:70:80: E501 line too long (83 > 79 characters)
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pyflakes.py:47:41: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pylint.py:27:33: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/run_pylint.py:45:55: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:13:12: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:16:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:20:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:21:21: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:25:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:29:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:32:16: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:39:37: E128 continuation line under-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:43:29: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:52:25: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:56:25: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:66:25: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:67:9: E265 block comment should start with '# '
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:73:50: E127 continuation line over-indented for visual indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_coverage.py:88:41: E126 continuation line over-indented for hanging indent
+../local/lib/python2.7/site-packages/django_jenkins-0.14.1-py2.7.egg/django_jenkins/tasks/with_local_celery.py:14:1: W391 blank line at end of file
